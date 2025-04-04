@@ -12,7 +12,7 @@ void fizzbuzz(int n){
         }else if(i%5==0){
             cout<<"buss"<<endl;
         }else{
-            cout<<i<<endl
+            cout<<i<<endl;
         }
         
     }
