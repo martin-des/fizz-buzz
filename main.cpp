@@ -11,6 +11,8 @@ void fizzbuzz(int n){
             cout<<"fizz"<<endl;
         }else if(i%5==0){
             cout<<"buss"<<endl;
+        }else{
+            cout<<i<<endl
         }
         
     }
